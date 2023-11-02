@@ -510,7 +510,7 @@
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
             .init(layoutDirection: .leftToRight),
-            .init(preferredContentSizeCategory: .medium),
+            .init(preferredContentSizeCategory: .large),
             .init(userInterfaceIdiom: .phone),
           ]
           switch orientation {
@@ -537,7 +537,7 @@
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
             .init(layoutDirection: .leftToRight),
-            .init(preferredContentSizeCategory: .medium),
+            .init(preferredContentSizeCategory: .large),
             .init(userInterfaceIdiom: .phone),
           ]
           switch orientation {
@@ -564,7 +564,7 @@
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
             .init(layoutDirection: .leftToRight),
-            .init(preferredContentSizeCategory: .medium),
+            .init(preferredContentSizeCategory: .large),
             .init(userInterfaceIdiom: .phone),
           ]
           switch orientation {
@@ -591,7 +591,7 @@
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
             .init(layoutDirection: .leftToRight),
-            .init(preferredContentSizeCategory: .medium),
+            .init(preferredContentSizeCategory: .large),
             .init(userInterfaceIdiom: .phone),
           ]
           switch orientation {
@@ -618,7 +618,7 @@
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .unavailable),
             .init(layoutDirection: .leftToRight),
-            .init(preferredContentSizeCategory: .medium),
+            .init(preferredContentSizeCategory: .large),
             .init(userInterfaceIdiom: .phone),
           ]
           switch orientation {
@@ -645,7 +645,7 @@
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
             .init(layoutDirection: .leftToRight),
-            .init(preferredContentSizeCategory: .medium),
+            .init(preferredContentSizeCategory: .large),
             .init(userInterfaceIdiom: .phone),
           ]
           switch orientation {
@@ -672,7 +672,7 @@
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
             .init(layoutDirection: .leftToRight),
-            .init(preferredContentSizeCategory: .medium),
+            .init(preferredContentSizeCategory: .large),
             .init(userInterfaceIdiom: .phone),
           ]
           switch orientation {
@@ -699,7 +699,7 @@
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
             .init(layoutDirection: .leftToRight),
-            .init(preferredContentSizeCategory: .medium),
+            .init(preferredContentSizeCategory: .large),
             .init(userInterfaceIdiom: .phone),
           ]
           switch orientation {
@@ -725,7 +725,7 @@
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
             .init(layoutDirection: .leftToRight),
-            .init(preferredContentSizeCategory: .medium),
+            .init(preferredContentSizeCategory: .large),
             .init(userInterfaceIdiom: .phone),
           ]
           switch orientation {
@@ -752,7 +752,7 @@
           let base: [UITraitCollection] = [
             .init(forceTouchCapability: .available),
             .init(layoutDirection: .leftToRight),
-            .init(preferredContentSizeCategory: .medium),
+            .init(preferredContentSizeCategory: .large),
             .init(userInterfaceIdiom: .phone),
           ]
           switch orientation {
